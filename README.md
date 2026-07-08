@@ -2,7 +2,7 @@
 
 A single-file, client-side quoting tool for web design and development studios. Set the shape of a project — type, page count, design tier, features, timeline, revisions, maintenance — and the ledger panel totals it live, as a range rather than a fake-precise number.
 
-**Live demo:** _add your Vercel URL here after deploying_
+**Live demo:** [website-quoting-tool.vercel.app](https://website-quoting-tool.vercel.app/)
 
 ## Features
 
